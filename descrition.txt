@@ -1,0 +1,15 @@
+Projeto de e-commerce criado pelo tutorial de Salvando el semestre
+link: https://youtu.be/yQRNqodA0_M 
+
+Nome: Organic Store
+
+Tecnologias usadas
+    . Node.js
+    . MongoDB
+    . Handlebars
+    . ES6
+
+COMANDOS USADOS
+
+    npm init -Y
+    npm i body-parser express express-handlebars mongoose

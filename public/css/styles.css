@@ -1,0 +1,14 @@
+.imgFilter{
+    filter: brightness(0.80);
+}
+
+.navbar{
+    padding: 1rem;
+}
+.navbar-collapse{
+    justify-content: space-between !important;
+}
+
+.navbar-collapse > form{
+    display: flex;
+}
